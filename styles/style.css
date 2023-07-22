@@ -1,0 +1,40 @@
+.container{
+    width: 1230px;
+    margin: 0 auto;
+    padding: 0 15px;
+    outline: solid red;
+}
+body{
+    font-family: 'Jost', sans-serif;
+    font-weight: 400;
+}
+
+/* header */
+
+.header-photo{
+    max-width: 177px;
+}
+
+.header-link{
+    color: #292F36;
+    font-size: 19px;
+    line-height: 1.57;
+    letter-spacing: 0.4px;
+}
+.header-link:hover{
+    color: #CDA274;
+    font-size: 20px;
+}
+.header-list{
+    display: flex;
+    gap: 40px;
+    margin-left: auto;
+    align-items: center;
+}
+.header-box{
+    display: flex;
+}
+.header{
+    padding-top: 26px;
+    padding-bottom: 18px;
+}
