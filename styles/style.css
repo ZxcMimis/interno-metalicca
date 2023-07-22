@@ -38,3 +38,44 @@ body{
     padding-top: 26px;
     padding-bottom: 18px;
 }
+
+/* hero */
+
+.hero {
+    padding-top: 188px;
+    padding-bottom: 260px;
+    background-image: url(../images/hero-bc.png);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.hero-title {
+    color: #292F36;
+font-family: 'DM Serif Display';
+font-size: 80px;
+line-height: 1.2;
+letter-spacing: 0.22px;
+max-width: 595px;
+}
+
+.hero-text {
+    color: #4D5053;
+    font-size: 22px;
+line-height: 1.5;
+letter-spacing: 0.22px;
+margin-top: 19px;
+max-width: 577px;
+}
+
+.hero-button {
+    color: #FFF;
+font-size: 18px;
+line-height: 1.5; 
+letter-spacing: 0.72px;
+margin-top: 35px;
+background-image: url(../images/hero-button.jpg);
+padding: 22px 80px 22px 34px;
+border-radius: 18px;
+}
+
+
