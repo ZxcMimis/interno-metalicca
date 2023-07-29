@@ -236,13 +236,6 @@ body {
 
           /* personal */
 
-.personal {
-  border-radius: 70px;
-  background: #F4F0EC;
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 103px 0px 121px 0px;
-}
 
 .personal-img {
   width: 77px;
@@ -311,4 +304,11 @@ body {
   margin: 50px 0px 0px 35px;
   display: flex;
   gap: 20px;
+}
+
+.personal-container {
+  padding: 103px 0px 121px 0px;
+  max-width: 1200px;
+  border-radius: 70px;
+  background: #F4F0EC;
 }
