@@ -325,3 +325,45 @@ body {
   line-height: 30px;
   letter-spacing: 0.22px;
 }
+
+/* sponsor */
+
+
+.sponsor{
+  padding-bottom: 113.39px;
+  padding-top: 139.61px;
+}
+
+.sponsor-list{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+
+.sponsor-img-1{
+ width: 132px;
+  height: 43px;
+}
+
+.sponsor-img-2{
+  width: 103px;
+  height: 103px;
+}
+
+.sponsor-img-3{
+ width: 164px;
+  height: 43px;
+}
+
+.sponsor-img-4{
+ width: 145px;
+  height: 45px;
+}
+
+.sponsor-img-5{
+  width: 117px;
+  height: 48px;
+}
+
+.
